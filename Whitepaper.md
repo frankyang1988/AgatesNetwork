@@ -1,85 +1,339 @@
 # 1. Prologue
 ## 1.1 What happened?
-1000 BC. Slave Society.
+1000 BC. Slave Society.  
+While the slave owners were drinking wine and eating meat in the warm palace, the slaves were enduring hunger and cold, and were forced to plant crops in the vast fields.   
+Unfortunately, Their hard work did not bring them warmth and prosperity, However, they received only meager sustenance. The majority of the fruits of the slaves' labor were confiscated by the slave owners to maintain their prosperous lifestyles.
 
-While the slave owners were drinking wine and eating meat in the warm palace, the slaves were enduring hunger and cold, and were forced to plant crops in the vast fields. Unfortunately, Their hard work did not bring them warmth and prosperity, However, they received only meager sustenance. The majority of the fruits of the slaves' labor were confiscated by the slave owners to maintain their prosperous lifestyles.
+In the year 1000 AD, during the feudal society, farmers emerged from their modest wooden houses constructed with planks and thatch. They toiled diligently under the relentless sun using hoes and sickles.   
+Unfortunately, the land they cultivated wasn't theirs; it belonged to the feudal lords. Apart from paying rent to the landowner and substantial taxes to the government, the income from their labor barely covered their necessities for the next day's work.
 
-In the year 1000 AD, during the feudal society, farmers emerged from their modest wooden houses constructed with planks and thatch. They toiled diligently under the relentless sun using hoes and sickles. Unfortunately, the land they cultivated wasn't theirs; it belonged to the feudal lords. Apart from paying rent to the landowner and substantial taxes to the government, the income from their labor barely covered their necessities for the next day's work.
-
-In the 1800s, during the industrial society, little had changed. Workers labored over 12 hours daily in cramped, noisy, and perilous factories, earning paltry wages insufficient to afford decent shelter and basic food. Meanwhile, the products of their labor generated immense wealth, providing capitalists with luxurious lives.
+In the 1800s, during the industrial society, little had changed. Workers labored over 12 hours daily in cramped, noisy, and perilous factories, earning paltry wages insufficient to afford decent shelter and basic food.   
+Meanwhile, the products of their labor generated immense wealth, providing capitalists with luxurious lives.
 ## 1.2 What's happening?
-In 2020 AD, amid a highly developed internet technology era, the situation is complex. While people engage extensively in online activities, browsing, posting, liking, commenting, sharing, chatting, shopping, gaming, and learning the content they create contributes to the vast revenues of internet giants. Unfortunately, despite being the original creators of these revenues, users often don't see a direct impact on their wallets. The monetization occurs through various forms like advertising, e-commerce, and paid services, leading to a disconnect between user participation and financial benefit.
+In 2020 AD, amid a highly developed internet technology era, the situation is complex. While people engage extensively in online activities, browsing, posting, liking, commenting, sharing, chatting, shopping, gaming, and learning the content they create contributes to the vast revenues of internet giants.   
+Unfortunately, despite being the original creators of these revenues, users often don't see a direct impact on their wallets. The monetization occurs through various forms like advertising, e-commerce, and paid services, leading to a disconnect between user participation and financial benefit.
 
 Certainly, the revenue generated from user activities on the internet often doesn't directly benefit users. As of August 2023, the market values of leading internet companies illustrate the vast wealth concentrated in these corporations. 
 
-The revenue distribution in such companies typically encompasses company expenses, investments, and shareholder returns rather than direct financial gains for the users contributing to the platform's success. Here are the market values of some prominent companies:<br>
-> * Alphabet(Google)        $1.648 Trillion<br>
-> * Amazon: 				$1.474 Trillion<br>
-> * Meta (Facebook): 		$819.32 Billion<br>
-> * Tencent: 				$379.41 Billion<br>
-> * Alibaba: 				$221.06 Billion<br>
+The revenue distribution in such companies typically encompasses company expenses, investments, and shareholder returns rather than direct financial gains for the users contributing to the platform's success. Here are the market values of some prominent companies:
+> * Alphabet(Google)   $1.648 Trillion
+> * Amazon: 				$1.474 Trillion
+> * Meta (Facebook): 		$819.32 Billion
+> * Tencent: 				$379.41 Billion
+> * Alibaba: 				$221.06 Billion
 
 These figures highlight the substantial market values of these tech giants.
-The average annual income figures for employees at leading internet companies in 2021 were as follows:<br>
-> * Alphabet (Google): 		$295,884<br>
-> * Meta (Facebook): 		$292,785<br>
-> * Twitter: 				$232,626<br>
-> * Microsoft: 				$176,858<br>
+The average annual income figures for employees at leading internet companies in 2021 were as follows:
+> * Alphabet (Google): 		$295,884
+> * Meta (Facebook): 		$292,785
+> * Twitter: 				$232,626
+> * Microsoft: 				$176,858
 
 These figures highlight significant variations in compensation among employees of different internet giants.
 Indeed, the CEO salaries for the year 2021 were notably substantial:
-> * Andy Jassy (Amazon CEO): 		$212.7 Million<br>
-> * Tim Cook (Apple CEO): 			$98.78 Million<br>
-> * Satya Nadella (Microsoft CEO): 	$49.85 Million<br>
-> * Parag Agrawal (Twitter CEO): 		$30.35 Million<br>
-> * Mark Zuckerberg (Meta CEO): 		$28.82 Million<br>
+> * Andy Jassy (Amazon CEO): 		$212.7 Million
+> * Tim Cook (Apple CEO): 			$98.78 Million
+> * Satya Nadella (Microsoft CEO): 	$49.85 Million
+> * Parag Agrawal (Twitter CEO): 		$30.35 Million
+> * Mark Zuckerberg (Meta CEO): 		$28.82 Million
 
 These figures underscore the considerable disparity in compensation between CEOs and ordinary employees within these companies.
 
-It seems that the answer is clear:<br>
+It seems that the answer is clear:
 The income generated by users' time spent does not find its way into their wallets; instead, it transforms into the market value of internet companies and the annual salary packages of their executives and employees.
 
-Is this fair?
+**Is this fair?**
 
-Certainly, compassionate individuals may argue that while internet companies consume users' time, they also offer various services such as information retrieval, news reading, and social interaction for free.<br>
-If this makes sense, then:<br>
-Slave owners might assert: "We provided shelter and food for our slaves." <br>
-Feudal lords could argue: "We provide land and security for farmers." <br>
+Certainly, compassionate individuals may argue that while internet companies consume users' time, they also offer various services such as information retrieval, news reading, and social interaction for free.  
+
+If this makes sense, then:  
+Slave owners might assert: "We provided shelter and food for our slaves."   
+Feudal lords could argue: "We provide land and security for farmers."   
 Similarly, factory owners might claim: "We provide jobs and income for workers." 
 
 Nevertheless, regardless of their defenses, they cannot conceal the reality: they leveraged their advantageous positions to seize the labor income of workers, channeling it into their own interests and creating extreme unfairness.
 
 ## 1.3 What's about to happen?
-Certainly, the world undergoes constant change, and unfair situations are not permanent. Consider this: if a worker lived in the United Kingdom in the early 18th century, their living conditions would likely be extremely challenging. However, if that same worker lived in the United States in the mid-to-late 20th century, their life could be characterized by abundance, sunshine, and joy. This highlights the dynamic nature of societal progress and improvement over time.
+Certainly, the world undergoes constant change, and unfair situations are not permanent.  
+Consider this: if a worker lived in the United Kingdom in the early 18th century, their living conditions would likely be extremely challenging. However, if that same worker lived in the United States in the mid-to-late 20th century, their life could be characterized by abundance, sunshine, and joy.
 
-What prompted this transformation?
+**What prompted this transformation?**
 
-In the contemporary world, where the distribution of Internet benefits is highly unbalanced, the possibility of transformation still exists. Technological progress and worker unity remain pivotal factors. Advances in technology can enhance efficiency and productivity, leading to an increased abundance of resources. Additionally, worker unity, through initiatives like forming trade unions, advocating for better wages and benefits, can work towards fostering a more equitable distribution of interests in society. The ongoing evolution of technology and collective efforts by workers may contribute to addressing the current imbalances in the distribution of Internet benefits.
+In the contemporary world, where the distribution of Internet benefits is highly unbalanced, the possibility of transformation still exists. Technological progress and worker unity remain pivotal factors.   
+Advances in technology can enhance efficiency and productivity, leading to an increased abundance of resources. Additionally, worker unity, through initiatives like forming trade unions, advocating for better wages and benefits, can work towards fostering a more equitable distribution of interests in society.   
+The ongoing evolution of technology and collective efforts by workers may contribute to addressing the current imbalances in the distribution of Internet benefits.
 
-We think the answer is yes.
+Indeed, leveraging two key elements can facilitate this change.
+  
+First: Utilizing cutting-edge technology, specifically blockchain technology.   
+The advantages of blockchain, including decentralization, immutability, transparent transactions, speed, and cost-effectiveness, can play a crucial role.  
 
-Indeed, leveraging two key elements can facilitate this change:<br>
-First: Utilizing cutting-edge technology, specifically blockchain technology. The advantages of blockchain, including decentralization, immutability, transparent transactions, speed, and cost-effectiveness, can play a crucial role.<br>
+Second: Fostering unity.   
+Blockchain's "decentralization" feature has the potential to shift the global internet from the centralized Web 2.0 to the decentralized Web 3.0. This transformation allows every internet user to become an independent node within the network, holding an equal status without being tied to a specific center, as the blockchain operates without a centralized authority.
+Simultaneously, its "non-tampering" and "transaction transparency" features can accurately record all users' various behaviors on the chain. Subsequently, the system can calculate the value of each user's contribution to the entire ecosystem.   
+These values can serve as "proof of equity" to guide the fair distribution of network benefits to users.
 
-Second: Fostering unity. Blockchain's "decentralization" feature has the potential to shift the global internet from the centralized Web 2.0 to the decentralized Web 3.0. This transformation allows every internet user to become an independent node within the network, holding an equal status without being tied to a specific center, as the blockchain operates without a centralized authority.
+Certainly, the progress of blockchain technology, while significant, cannot substitute for the crucial importance of "unity."   
+The influence of each individual is limited, and major social changes typically arise only when countless individuals unite into cohesive "groups." 
+History has repeatedly demonstrated the transformative power of collective action.
 
-Simultaneously, its "non-tampering" and "transaction transparency" features can accurately record all users' various behaviors on the chain. Subsequently, the system can calculate the value of each user's contribution to the entire ecosystem. These values can serve as "proof of equity" to guide the fair distribution of network benefits to users.
-
-Certainly, the progress of blockchain technology, while significant, cannot substitute for the crucial importance of "unity." The influence of each individual is limited, and major social changes typically arise only when countless individuals unite into cohesive "groups." History has repeatedly demonstrated the transformative power of collective action.
-The above is our original intention to launch the Agates Network project.
-
-Our action slogan for this project is:<br>
+The above is our original intention to launch the Agates Network project.  
+That's why our action slogan for this project is:  
 **`Global Internet Benefit Redistribution Movement`**
+
 # 2. Project Introduction
+## 2.1 Overview
+The advent of blockchain technology, marked by features such as decentralization, non-tamperability, and transparent transactions, is poised to instigate profound changes across various fields.   
+Beyond being a technological upgrade, it signifies an evolution in social organizational forms, offering new possibilities for building trust, enhancing efficiency, and fostering social equity.
+
+The Agates Network blockchain stands out as one of the most innovative, reform-minded, and exploratory projects. Functioning as a global internet benefit distribution solution, it harnesses the potential of blockchain technology.  
+
+By leveraging the advanced features of blockchain and incorporating them into the internet product business model, the project is dedicated to constructing a decentralized, transparent, and shared ecosystem, ensuring every participant can reap its benefits.
+
+The plan involves establishing a global decentralized node network to offer reliable technical support for all Agates Network products and services.   
+Within this network, the AGAT coin serves as the fundamental unit of value, circulating freely throughout the Agates Network and undertaking essential roles in value transmission and exchange.   
+This system aims to provide users with a broader spectrum of opportunities for value interaction and participation.
+## 2.2 Background
+In the 2020s, technological advancements and increased productivity since the end of World War II, especially in Internet and artificial intelligence technologies over the past 30 years, have propelled humanity into the AI era.   
+However, despite these strides, living standards for much of the global population haven't significantly improved compared to 30 years ago.
+
+One contributing factor to this issue lies in the monopoly position of certain leading Internet platforms.   
+Capital advantages, first-mover benefits, and network effects have enabled them to swiftly amass a vast user base, establishing dominant market positions.   Through unique business models, these platforms convert users' time and energy into substantial commercial gains, absorbing a significant portion of real industry profits.   
+This monopoly not only fosters unfair market competition but also exacerbates wealth concentration, widening the gap between the rich and the poor.  
+
+We believe that blockchain technology serves as an ideal solution to these challenges. Its decentralized, transparent, and tamper-resistant characteristics provide unique advantages in addressing issues related to Internet interest monopoly and wealth differentiation.
+
+* Indeed, blockchain is a decentralized technology where data is distributed across multiple nodes on the network, avoiding control by a single entity. This stands in stark contrast to traditional centralized Internet platforms that can form monopolies by overseeing substantial amounts of user data. The decentralized nature of blockchain helps eliminate single points of failure and discourages excessive control by individual entities, effectively disrupting monopolistic tendencies in the network.
+* The technical characteristics of blockchain allow all users to access complete transaction history and data records, and have complete data control. Users’ data is stored on the blockchain, and they can choose which platforms they share it with and have the ability to revoke authorization at any time. This will help alleviate the problem of Internet platforms abusing user data and avoid the formation of data monopolies.
+* Blockchain platforms utilize coins as a measure of value and a tool to motivate users. By incentivizing users to contribute to the network, a more decentralized and equitable ecosystem can be established. The active involvement of users has the potential to undermine the platform's capacity to dominate the market through imposed rules, fostering a more dynamic and participatory environment.
+* Blockchain technology has the potential to foster the development of distributed autonomous organizations (DAOs), leading to the decentralization of social organizations and decision-making processes. This facilitates broader participation by users in community affairs, mitigates the concentration of power, and enhances the fairness and democratic nature of decision-making within these organizations.
+
+The advanced features highlighted in blockchain technology have provided a clear direction for us on how to construct a decentralized, transparent, shared, and universally beneficial Agates blockchain Network.
+
+## 2.3 Mission
+As stated in the "Prologue," any injustice is not destined to endure indefinitely.   
+The prevailing exploitation of the rights and interests of ordinary users in the Internet world, driven by the monopoly position of leading Internet platforms, is widespread.   
+However, this situation is on the brink of change, and change is inevitable. The transformative force behind this change is undoubtedly the revolutionary value of blockchain technology.   
+There is no alternative.
+
+In light of this, the mission of the Agates Network blockchain project is unmistakably clear:   
+> To expedite this change through practical means, ensuring that all Internet users worldwide share in the commercial benefits brought about by the development of Internet technology.
+
+## 2.4 Target
+The Agates Network blockchain project aims to facilitate a more equitable sharing of commercial benefits among global Internet users resulting from the development of Internet technology.   
+Our action slogan, the "Global Campaign to Redistribute Internet Benefits," resonates with this objective. 
+
+To achieve this sacred, ambitious, and challenging goal, it requires the following components:
+
+### 2.4.1 Agates Mainnet
+The Agates Mainnet serves as the technical foundation for Agates Network to construct a fair Internet and stands as the robust cornerstone of the entire ecosystem.
+   
+Operating as a decentralized blockchain network, the Agates Mainnet incorporates cutting-edge blockchain technologies, encompassing smart contracts, consensus mechanisms, encryption algorithms, and more.   
+The application of these technologies not only guarantees the efficient, transparent, and secure operation of the system but also establishes a safe and reliable participation platform for global Internet users.
+
+The Agates Mainnet employs a highly flexible consensus mechanism, ensuring network stability and decentralization. Simultaneously, the integration of smart contract technology enables the automatic execution of business logic on the blockchain, offering users and developers a more convenient and efficient service experience.   
+
+This architecture not only establishes a robust foundation for achieving a fair Internet but also creates ample room for the future development of the Agates Network.
+
+### 2.4.2 Agates ID
+Agates ID is Agates Network's mechanism for generating decentralized IDs for users.   
+Each Agates ID represents a unique on-chain identity, distinct from offline identities, enabling autonomous, secure, and private participation in on-chain activities.
+
+The Agates Network team appreciates the potent allure of "anonymity" introduced by blockchain technology to the Internet world.   
+They do not seek a direct correspondence between on-chain IDs and real-world users. Instead, Agates Network prioritizes absolute personal privacy protection by decoupling on-chain and offline identities.
+
+Agates ID employs multi-level identity verification methods, incorporating PIN codes, mnemonic phrases, and biometrics to establish a comprehensive digital identity system. This design aims to ensure the security of user identities and effectively counter identity theft and fraud.
+
+Agates ID provides users with a secure and reliable pass, enabling them to engage in various services offered by Agates Network without concerns about the compromise of personal information.
+### 2.4.3 Agates DAPP
+The Agates Network team recognizes that any meaningful social change necessitates the consensus of the majority. 
+
+The Agates Mainnet's programmability empowers any qualified development team, including the Agates Network team itself, to dynamically construct smart contracts and decentralized applications(dApps in short). This flexibility aims to enhance the project's penetration into more Internet domains and broaden its reach across a wider audience.
+
+Agates DAPP is a decentralized application ecosystem constructed on the Agates Mainnet. We actively encourage developers worldwide to craft a multitude of innovative applications on this platform, catering to the diverse needs of users.   
+These dApps facilitate the decentralized execution of business logic through smart contracts, affording users increased rights and returns.
+
+### 2.4.4 Agates Business Ecology
+A notable distinction of the Agates Network project is its keen emphasis on the viability of the business model and the project's capacity for sustainable growth.   
+It goes beyond being solely a technology-centric blockchain project and evolves into a dynamic and flourishing product and business ecosystem.
+
+The business ecology of the Agates Network spans various domains, including e-commerce, content communities, social networking, games, tools, finance, and more. The overarching goal is to offer users a wide range of rich and diverse experiences, creating a comprehensive and dynamic blockchain ecosystem.  
+Within this ecosystem, all participants contribute to the development of the Agates Network by engaging in various business activities, with shared commercial benefits resulting from the project's success.
+
+
+The commercial value of the Agates Network project encompasses technical value, traffic value, endogenous value, consensus value, and other dimensions.   
+The project team is committed to constructing a mature and healthy business system to unlock the full commercial potential of the project, attracting more users.  
+It aims to encourage ongoing participation from existing users and achieve significant user growth by offering compelling business incentives, services, or products.
+
+### 2.4.5 AGAT Production System
+The Agates Network project implements a balanced and comprehensive benefit distribution system, conducting fair benefit allocation based on users' contributions to the Agates Network.   
+The AGAT coin serves as the fundamental quantitative unit for this distribution.
+
+The project involves various roles, including ordinary users, developers, miners/verifiers, investors, community managers, volunteers, partners, and contributors. It is structured with distinct profit distribution mechanisms tailored to the contributions of different roles to the overall project.   
+This approach aims to incentivize active participation, foster community prosperity, and ensure the healthy growth of the project itself.
+
+The AGAT distribution system was established to incentivize users to actively participate and contribute to the construction of a fair Internet.   
+Through this system, the aim is to achieve a genuine win-win scenario in the business model and return more benefits to users and participants.
+### 2.4.6 AGAT Circulation Platform
+A groundbreaking innovation of the Agates Network project lies in using the project coin AGAT as proof of rights for participants.    
+Each AGAT holder can continuously receive benefits resulting from the project's growth, determined by the total amount of AGAT held throughout the project's existence.  
+This advanced dividend mechanism bestows eternal value upon AGAT, fostering demand for its circulation.
+
+The Agates Network project team plans to seize the opportunity to establish a coin circulation platform based on market demand, fully unlocking the potential value of AGAT coins.  Through the circulation mechanism within the platform, AGAT will circulate, creating an organic economic cycle. 
+
+This approach not only enhances asset liquidity for users but also provides economic support for the development of the entire ecosystem.
 # 3. Innovation and Advantage
+## 3.1 Free Mining
+Agates Network is committed to creating a genuinely open and inclusive blockchain ecosystem, with a primary focus on providing a free model to enable users worldwide to easily participate without incurring additional fees.   
+
+Adhering to the concept of the "global Internet benefit redistribution movement," Agates Network is dedicated to offering equal participation opportunities for users globally.  
+In the Agates Network ecosystem, any user can register for free, create a digital identity, and enjoy various platform services, including but not limited to digital identity verification, dApp usage, and transactions on the circulation platform.  
+Regardless of users' location, nationality, color, gender, age, or education level, Agates Network welcomes individuals from around the world.
+
+Simultaneously, Agates Network encourages additional application developers to engage with the platform, fostering a diverse and vibrant dApp ecosystem collaboratively. To facilitate entry for these developers, Agates Network offers free access services, enabling them to concentrate on innovative application development without being burdened by high entry costs.
+
+The adoption of the free model represents not only an innovation within the Agates Network project but also a commitment to democratizing global Internet participation. Through this model, the project pledges to dismantle the geographical and economic barriers associated with traditional Internet platforms, providing more equitable participation opportunities for users worldwide and collectively sharing the benefits of blockchain technology development.
+## 3.2 Dividend Mode
+The Agates Network project introduces a distinctive innovation: Users holding AGAT coins will consistently receive dividends from the project's ongoing development.   
+Whenever a user actively contributes to the Agates Network project through actions like registration, mining, invitation, consumption, staking, etc., they earn a specific amount of AGAT coins as a reward for their contribution.   
+These AGAT coins, held by each user, serve not only as a component of their assets but also as a certificate entitling them to receive dividends.
+
+The dividend model of the Agates Network project is not singular but diverse, encompassing various aspects such as:
+
+* Users who acquire new AGAT coins through mining activities within a specified timeframe are eligible for Mining Rewards.
+* All loyal users holding AGAT coins have access to Holding Dividends within the Agates Network project.
+* Outstanding project promotion contributors, who are partners, have access to Promoting Partner Bonuses within the Agates Network project.
+* Investors engaging in AGAT Staking qualify for Staking Allowance within the Agates Network.
+
+The dividend model of the Agates Network project is a sincere embodiment of the project's mission, aiming to ensure that every user reaps the benefits of technological development and project expansion.   
+The anticipation is that this model will not only generate enthusiasm and loyalty among users but also inspire ongoing contributions to the project's growth.
+
+It's important to note that the "dividend mode" doesn't conflict with "open trading." Users have the flexibility to either continuously receive dividends by holding AGAT over time or realize them in a single transaction through AGAT trading.   
+This approach provides users with options tailored to their preferences and objectives.
+## 3.3 Owned by All
+As a blockchain project with pronounced public welfare attributes, Agates Network consistently upholds the principle of "all people own and everyone benefits" in community governance.  
+
+The project introduces a novel and advanced governance model with the goal of achieving genuine universal ownership. Project management and decision-making authority are allocated to specialized committees, and the performance of each committee member is chosen and assessed through the "Community Congress."   
+Simultaneously, the project ensures the sharing of benefits resulting from its growth with all users via the "dividend model."
+
+The governance model integrates decentralization, transparency, community participation, equal benefits, and equality concepts. It ensures that every community member possesses equal rights and responsibilities, collectively contributing to shaping the future of the project.
+## 3.4 Business Ecology
+Agates Network sets itself apart from other blockchain projects through another distinctive innovation. It transcends being solely technology-focused, evolving into a dynamic product and business ecosystem. 
+
+The business ecology of the project spans various fields, including e-commerce, content communities, social networking, games, tools, finance, and more. The objective is to offer users a plethora of rich and diverse experiences, thereby creating a comprehensive and dynamic blockchain ecosystem.
+
+Within this diverse and innovative business ecosystem, AGAT coins, serving as a medium of value circulation, will traverse various fields. Their role as a transaction method is poised to propel the ongoing development of the business ecosystem, offering users and developers expanded development opportunities. 
+
+Agates Network is dedicated to amalgamating blockchain technology with business applications, striving to forge a genuinely practical and innovative ecosystem.
+
+## 3.5 Technical Architecture
+The technical architecture of the Agates Network project adheres to the principles of advancement and innovation, leveraging the maturity and extensive ecosystem of the Ethereum network to deliver users an excellent blockchain experience. 
+
+The project's technical design prioritizes key factors including security, consensus mechanism, transaction speed, confirmation time, scalability, fees, and decentralization. This ensures a system that is secure, scalable, with fast transactions, short confirmation times, efficiency, and a high degree of decentralization.
+
+* Initially, we opted to build on the Ethereum network, capitalizing on its robust infrastructure and extensive community support. This strategic choice guarantees the stability and reliability of the project, enabling users worldwide to fully experience the convenience of blockchain technology.  
+* Moreover, we will continue to use the underlying technical architecture of the initial stage when building the Agates Mainnet to ensure the smooth switching of data, assets, and business ecology from testnet to mainnet.
+* Additionally, we implement an advanced consensus mechanism to strike a balance between network security and transaction speed. This unique design mitigates potential attack risks, ensures swift confirmation of transactions, and provides users with an efficient and secure experience.
+* To bolster data security, we employ dual-level measures, utilizing distributed storage and advanced encryption algorithms to safeguard user information's privacy and security. Data transmission between the client and the node server, as well as between nodes, is encrypted. Server storage is also structured around encrypted data, entirely eliminating the risk of any plaintext information leakage.
+* Agates Network enhances the experience for dApp developers and users by offering a unified distributed service interface. This design of service components not only enhances system flexibility but also establishes a more cohesive and efficient platform for both users and developers.
+
+## 3.6 Account Security and Privacy Protection
+Due to the involvement of commercial interests in the Agates Network project, we prioritize security and user privacy protection. 
+
+We implement multi-level defense measures, covering algorithms, data, networks, node services, etc., to fortify the system's resilience against attacks and risks. These measures include:
+
+* **Account Security:** Agates Network has implemented multiple verification methods, including account codes, PIN codes, mnemonic phrases, and biometric information identification (such as fingerprints and faces) for user account data access. Additionally, the system encapsulates this information into private keys using multiple encryption algorithms to ensure the security and traceability of user accounts.
+* **Privacy Protection:** Agates Network ensures robust personal privacy protection by decoupling on-chain and offline identities. Through Agates ID generation, users receive decentralized IDs, each representing a unique on-chain identity (distinct from offline identity). These Agates IDs enable users to autonomously, securely, and privately engage in any on-chain activities.
+* **Data Security:** In the Agates Mainnet, all stored data across nodes is encrypted, providing resistance against cracking and attacks. In the event of an attempt to crack encrypted data, the service automatically destroys the single point data and disables the node's data access permissions, ensuring robust data security measures.
+* **Network Security:** The Agates Mainnet employs decentralized transmission value, ensuring enhanced network security. Before submission to the network layer, data undergoes encryption and slicing, fortifying the system against potential network layer attacks.
+
+## 3.7 Free Circulation
+Agates Network innovatively supports the unrestricted circulation of AGAT coins, offering users versatile and diverse usage options.  
+This feature aims to boost the value recognition of AGAT coins and facilitate their widespread distribution.
+
+* The Agates Network platform facilitates unrestricted transfer and exchange of AGAT coins, enabling users to freely circulate AGAT coins within the platform. This promotes interaction and collaboration among users, allowing for a balanced allocation of assets through AGAT coin transfers. This dynamic encourages diversification and prosperity of transactions within the platform.
+* The unrestricted circulation of AGAT coins positions them as an ideal tool for exchanges and transactions within the Agates Network platform. Users can utilize AGAT for exchanging goods or services, paying exchanging fees, engaging in transactions, and making investments within the platform. This exchange method is not only convenient and swift but also has the potential to reduce transaction costs while enhancing security and privacy.
+* The Agates Network platform actively promotes philanthropy and social responsibility by enabling users to gift AGAT coins. Through the platform's gift function, users can send AGAT coins to other users, organizations, or charities, facilitating more flexible and efficient charitable donations. This form of social sharing enhances the coin's social impact, contributing positively on a global scale.
+* By facilitating the unrestricted circulation of AGAT coins, the platform aims to foster a broader distribution among users. This widespread distribution will enhance the coin's market recognition and increase user participation. Users can acquire AGAT through various platform activities and community contributions, contributing to the expansion of the coin holder base and fostering the stability and development of the coin.
+* By employing various methods of free circulation, users will intuitively experience the practical application scenarios and value of AGAT coins, enhancing their recognition of the coin's worth. This increased understanding is likely to boost the frequency of AGAT coin usage within the platform. 
+
+As users actively utilize AGAT, they will gain a profound understanding of its actual value, ultimately contributing to the widespread and meaningful application of the coin within the platform.
+
+## 3.8 Flexible Supply
+To meet the evolving requirements of the Agates Network project at various phases of development, we've implemented an intelligent AGAT "Supply Curve" function with an automatic adjustment mechanism.  
+This ensures a balance between the total amount of AGAT released, striking equilibrium between expansion and stability.  
+The supply adjustment is governed by a comprehensive "project health model," allowing for automatic optimization through the analysis of multiple parameters.
+
+* In the early stages of the project when rapid expansion is crucial, the Supply Curve will automatically transition to "Priority Inflation" mode. In this stage, the Supply Curve increases the supply of AGAT, intending to swiftly expand the project's influence. The augmented AGAT supply in the market is anticipated to attract more users to participate in the Agates Network project, increase the total number of holders, thereby fostering the rapid development of the project.
+* During periods of stability in the project, the Supply Curve shifts to "Priority Deflation" mode. In this mode, the Supply Curve decreases the supply of AGAT, reducing the per capita holdings of AGAT to enhance its value. This strategic move is designed to transition the project into a relatively stable development stage, reinforcing the robustness and sustainability of AGAT coins.
+* The automatic adjustment mechanism, through the project health model, conducts a thorough analysis considering multiple parameters such as user participation, market demand, and project development speed. Through a comprehensive evaluation of these parameters, the Supply Curve function automatically adjusts to choose the appropriate mode. This dynamic adjustment mechanism ensures a flexible response to market and project conditions, shaping AGAT's supply curve into a wave-like rising form.
+* The intelligent adjustment of the supply curve as described above is geared towards achieving stable and healthy growth for the Agates Network project. This approach not only accommodates the project's requirements at different stages but also fosters the stable growth of AGAT's market value through sensible inflation and deflation mechanisms. This establishes a more robust and sustainable development foundation for the project, ensuring long-term success and maximizing user benefits.
+
+The innovative flexible supply design of Agates Network serves to maintain the dynamic balance of the project. By intelligently adjusting to market demand and project development, it offers a feasible and sustainable solution for the stable and healthy growth of AGAT coin value. This adaptive approach aims to ensure the long-term success and resilience of the project.
 # 4. Technical Architecture
+## 4.1 Blockchain Technology
+## 4.2 Network Architecture
+## 4.3 Distributed Storage
+## 4.4 DApp Component Service
+## 4.5 Data Encrytion Algorithm
+## 4.6 Account Security
+### 4.6.1 Multi-factor Authentication
+### 4.6.2 Account Recovery
 # 5. Economic Model
+## 5.1 AGAT Overview
+## 5.2 Production of AGAT
+## 5.3 Rights and Interests of AGAT Holders
+### 5.3.1 Eligibility for Benefits
+### 5.3.2 Eligibility for Governance
+## 5.4 Circulation of AGAT
+## 5.5 Value of AGAT
+## 5.6 Future of AGAT
 # 6. Business Ecology
+## 6.1 E-Commerce
+## 6.2 Digital Content
+## 6.3 Social and Entertainment
+## 6.4 Mobile Tools
+## 6.5 Online Games
+## 6.6 Consumer Finance
 # 7. Governance Model
+## 7.1 Overview
+## 7.2 Governance System
+### 7.2.1 Community Congress
+### 7.2.2 Management Committee
+### 7.2.3 Technical Committee
+### 7.2.4 Executive Committee
+### 7.2.5 Supervisory Committee
+## 7.3 Proposals and Voting
 # 8. Community Building
+## 8.1 Community Values
+## 8.2 Multi-level Organization
+## 8.3 Online Community
+## 8.4 Offline Community
+## 8.5 Decentralized User Services
 # 9. Growth Engine
+## 9.1 User Acquisition
+## 9.2 User Retention
+## 9.3 Community Activity
+## 9.4 User Interaction
+## 9.5 Partnerships
+## 9.6 Data Driven
 # 10. Development Plan
+## 10.1 PMF Phase
+### 10.1.1 MVP Phase
+### 10.1.1 PMF Phase
+### 10.1.1 RRR Phase
+## 10.2 Testnet Phase
+### 10.2.1 Community Growth
+### 10.2.2 Business Expansion
+### 10.2.3 Ecosystem Building
+## 10.3 Mainnet Phase
+### 10.3.1 Brand Enhancement
+### 10.3.2 Open Trading
+### 10.3.3 Global Presence
 # 11. The Glory and the Dream
+## 11.1 Equality of All
+## 11.2 Fair Return
+## 11.3 Harmony Throughout the World
 # 12. Legal & Compliance
 # 13. Risk Disclosure
 # 14. Disclaimer
