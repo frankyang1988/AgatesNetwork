@@ -1,2 +1,2 @@
 
-Copyright (C) 2024 Frank Yang
+Copyright © 2024 Agates Network DAO All Rights Reserved.
