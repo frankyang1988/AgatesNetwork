@@ -79,7 +79,7 @@ History has repeatedly demonstrated the transformative power of collective actio
 
 The above is our original intention to launch the Agates Network project.  
 That's why our action slogan for this project is:  
-**`Global Internet Benefit Redistribution Movement`**
+> **Global Internet Benefit Redistribution Movement**
 
 # 2. Project Introduction
 ## 2.1 Overview
@@ -123,7 +123,7 @@ In light of this, the mission of the Agates Network blockchain project is unmist
 The Agates Network blockchain project aims to facilitate a more equitable sharing of commercial benefits among global Internet users resulting from the development of Internet technology.   
 Our action slogan, the "Global Campaign to Redistribute Internet Benefits," resonates with this objective. 
 
-To achieve this sacred, ambitious, and challenging goal, it requires the following components:
+To achieve this sacred, ambitious, and challenging goal, it requires the following targets:
 
 ### 2.4.1 Agates Mainnet
 The Agates Mainnet serves as the technical foundation for Agates Network to construct a fair Internet and stands as the robust cornerstone of the entire ecosystem.
@@ -604,48 +604,455 @@ This strategic approach seeks to create a comprehensive and adaptable environmen
 
 * To enhance support for lending and financing services, Agates Network plans to implement a user credit rating system. This system will generate credit profiles for users, taking into account their platform behavior, shopping history, repayment records, and other relevant information. A favorable credit rating will enable users to access more favorable lending conditions, fostering proactive consumption behavior within the platform. This approach aims to create a mutually beneficial system, rewarding responsible user behavior.
 
-The seamless integration of Agates Network's e-commerce platform and consumer finance business is poised to offer users an integrated and diversified digital shopping and financial experience. With the integration of AGAT coins, we aim to construct a digital ecosystem that empowers users to manage their consumption and financial requirements with greater convenience and intelligence. This holistic approach reflects our commitment to providing a comprehensive and user-centric digital environment within the Agates Network.
+The seamless integration of Agates Network's e-commerce platform and consumer finance business is poised to offer users an integrated and diversified digital shopping and financial experience.   
+With the integration of AGAT coins, we aim to construct a digital ecosystem that empowers users to manage their consumption and financial requirements with greater convenience and intelligence.   
+This holistic approach reflects our commitment to providing a comprehensive and user-centric digital environment within the Agates Network.
+
 # 7. Governance Model
 ## 7.1 Overview
+The "all-people-owned" feature of the Agates Network blockchain project signifies that ownership is not vested in an individual or organization but rather in all its users, specifically, all holders of AGAT coins. 
+
+As Agates Network envisions a blockchain project with a substantial user base, a robust governance model becomes crucial. This model must address critical aspects such as user organization, resource coordination, decision-making processes, and execution supervision to ensure the project evolves in the right direction and successfully fulfills its ultimate mission.   
+The emphasis on decentralized ownership aligns with the inclusive and community-centric nature of blockchain technology.
+
+The governance model of Agates Network places community engagement at its core, recognizing the community as the cornerstone of project success.  
+The belief is anchored in the idea that decision-making power should be distributed among a broad spectrum of community members to accurately reflect the opinions and needs of diverse stakeholders.  
+In pursuit of this goal, Agates Network has established an open and effective governance mechanism, fostering inclusivity and ensuring that the decision-making process is transparent and representative of the collective wisdom within the community.
+
+
+Agates Network's governance mechanism encompasses a comprehensive structure, featuring a proposal system, voting mechanism, and a community representative system. These components work together to effectively supervise project decision-making and implementation.   
+The governance system ensures that the decision-making process is organized, transparent, and inclusive, allowing community members to actively participate in shaping the direction of the project.  
+The combination of these elements aims to foster accountability, responsiveness, and a decentralized approach to governance within the Agates Network community.
 ## 7.2 Governance System
 ### 7.2.1 Community Congress
+o foster the robust advancement of the Agates Network project, we periodically convene Community Congress featuring representative members. This mechanism seeks to bring together diverse community voices, facilitating collaborative discussions on key decisions and development strategies.
+
+Representatives in the community are chosen through a transparent and equitable election process, considering broad recognition and contributions. These elected figures serve as the voices and active participants, tasked with conveying community consensus and concerns during the Community Congress.
+
+The Community Congress will center on critical matters like strategic planning, technological advancements, and the ecological construction of the project. Representatives will collaboratively deliberate, express their perspectives on key development issues, and formulate valuable suggestions and opinions.
+
+The Community Congress serves as a crucial feedback platform for the Supervisory Committee. Representatives share community members' opinions, conveying concerns, expectations, and suggestions. This input enables the Supervisory Committee to align the project more closely with community expectations.
+
+This governance system underscores our dedication to establishing an open and inclusive community governance system. It aims to enhance the democratic and transparent nature of the project's decision-making process, ensuring it genuinely mirrors the preferences of community members.
+
 ### 7.2.2 Management Committee
+The Management Committee is the cornerstone of the Agates Network project governance system and the highest decision-making body.   
+It holds the responsibility of shaping the project's strategic direction, deciding on crucial matters, and steering towards the established vision and goals. Serving not just as a community representative and communication bridge, it acts as the guardian of the project's vision and values.
+
+The responsibilities and authorities of the Agates Network Management Committee include:
+
+* Responsibilities
+    - The Management Committee is tasked with establishing the project's vision and goals, ensuring that the project's development aligns with its defined mission and long-term objectives. This strategic responsibility guides the overall direction of the project.
+    - The Management Committee holds the responsibility of evaluating and mitigating various risks encountered by the project, encompassing technical, market, legal, and other potential challenges. This proactive approach aims to enhance the project's resilience and overall success.
+    - The Management Committee is entrusted with deciding on the establishment or dissolution of partnerships, ensuring alignment with the interests and values of the project. This responsibility ensures that partnerships contribute positively to the overall objectives of the project.
+    - The Management Committee is tasked with ensuring the transparency of project operations. It has the responsibility to regularly report on project progress and decision-making outcomes to both the community and stakeholders, fostering open communication and accountability.
+    - The Management Committee serves as the representative of all users within the project community. Its role involves actively engaging with the community, comprehending their needs and concerns, and ensuring that the community's voice is thoroughly acknowledged and represented in project decisions.
+* Authorities
+    - The Management Committee holds ultimate authority over significant decisions within the project. This includes choices related to technical direction, partnerships, fund utilization, and other crucial aspects, consolidating the final decision-making power in these critical matters.
+    - The Management Committee possesses the authority to nominate or recommend individuals for roles such as community representatives and Technical Committee members. This ensures that these positions effectively represent the interests of the project, aligning with the committee's strategic nomination rights.
+    - The Management Committee holds the authority to develop and approve project budgets. Additionally, it makes decisions regarding fund allocation, covering areas such as investment, development, marketing, and other pertinent aspects, exercising control over financial decisions within the project.
+    - The Management Committee is tasked with crafting the long-term strategic plan for the project. This responsibility ensures the project maintains a clear development direction and can adeptly adapt to the evolving market environment.
+    - The Management Committee is responsible for reviewing and deciding on pertinent legal and compliance matters, particularly in situations where legal and compliance considerations are necessary. This role ensures adherence to legal standards and compliance requirements within the project.
+
 ### 7.2.3 Technical Committee
+The Technical Committee plays a pivotal role in the Agates Network project governance system. 
+Serving as the authoritative body for project technical decisions, its objective is to maintain alignment between the project's technical direction and overall goals. This includes ensuring an efficient and orderly development process, while fully guaranteeing the code quality and security of the project.
+
+The Technical Committee is tasked with making critical decisions regarding the technical direction and development process of the Agates Network project. Its role is integral in providing a robust guarantee for the project's safety. The organizations directly overseen by the Technical Committee include the Technological Innovation Team and the Product Design Team.
+
+The responsibilities and authorities of the Agates Network Technical Committee include:
+
+* Responsibilities
+    - In the realm of technological decision-making, The Technical Committee is responsible for pivotal choices within the project. This encompasses, but is not limited to, decisions on blockchain protocols, consensus mechanisms, smart contract platforms, development tools, and other crucial technical elements.
+    - The Technical Committee oversees the development process of the project, ensuring adherence to the planned trajectory. It plays a crucial role in formulating the development cycle and version release plan, actively supervising the development team to ensure the project progresses according to the established guidelines.
+    - The Technical Committee holds the responsibility for the project's security. This includes reviewing code security, assessing potential risks, and implementing measures to safeguard the project against attacks and threats. Their focus is on ensuring the robust security posture of the project.
+    - The Technical Committee is involved in the formulation of technical standards within the project. This task aims to establish guidelines that ensure code consistency, quality, and maintainability, contributing to the overall robustness of the project's development.
+    - The Technical Committee engages in research on emerging technology trends, evaluates the potential benefits of incorporating new technologies into the project, and makes decisions regarding the update of the existing technology stack. This ensures the project remains adaptive to advancements and utilizes technologies that enhance its overall effectiveness.
+* Authorities
+    - The Technical Committee holds the power to make decisions on the technological direction of the project. This includes formulating technological roadmaps, selecting core technologies, and other critical aspects that shape the project's technological trajectory.
+    - The Technical Committee is responsible for scrutinizing the project's code, ensuring it meets high standards in terms of quality, security, and compliance with established technical standards. This role contributes to maintaining the overall integrity and reliability of the project's codebase.
+    - The Technical Committee has the authority to allocate development resources involves actively contributing to the formulation of the project's development budget and making decisions regarding the allocation of development resources. This ensures a strategic and efficient distribution of resources for the project's successful advancement.
+    - The Technical Committee holds the power to decide when project versions are released, ensuring that the released versions adhere to the quality standards and security requirements set by the project. This responsibility is crucial for maintaining the integrity and reliability of each project release.
+    - The Technical Committee has the responsibility to decide whether to introduce new technology or update existing technology within the project. This decision-making power is crucial for adapting to the evolving development needs of the project and staying aligned with technological advancements.
+    - The Technical Committee holds the authority to address security vulnerabilities involves making decisions on the measures to be taken when a security vulnerability is identified. This responsibility ensures an effective and timely response to mitigate potential risks and safeguard the overall security of the project.
+
 ### 7.2.4 Executive Committee
+The Agates Network Executive Committee, within the project governance system, plays a pivotal role in overseeing the practical execution of the project. This encompasses resource management, coordination, communication, risk management, and ensuring compliance.   
+Their responsibilities directly impact the overall operation of the project and its business development, requiring strong professional qualities in management and leadership.
+
+
+The Agates Network Executive Committee comprises key teams, including the Community Growth Team, User Service Team, Ecological Development Team, and Financial and Legal Team. These teams collectively contribute to various aspects such as community expansion, user support, ecological development initiatives, and the financial and legal aspects of the project.
+
+The responsibilities and powers of the Agates Network Executive Committee include:
+
+* Responsibilities
+    - The Executive Committee is responsible for ensuring the effective implementation and management of the project in alignment with the established plan and strategy. Their role is pivotal in steering the project towards its predetermined goals, facilitating successful execution and overall project advancement.
+    - The Executive Committee is tasked with developing and overseeing the project's budget. This ensures that resources are efficiently allocated and utilized to support all facets of the project, contributing to its successful execution.
+    - The Executive Committee involves orchestrating collaboration among different project teams to ensure cohesive progress across all areas. It also entails communicating with the community and stakeholders to share updates on project progress and decisions, fostering transparency and engagement.
+    - The Executive Committee involves evaluating potential risks facing the project, developing risk management strategies, and executing project decisions. This ensures that the project navigates challenges effectively and progresses towards its predefined goals.
+    - The Executive Committee is dedicated to ensuring that project operations align with regulations and compliance requirements. This includes assisting in the resolution of legal issues and ensuring the overall legality of the project. Their role is essential for maintaining legal integrity and adherence to regulatory standards.
+    - The Executive Committee involves overseeing community affairs, engaging with community members, addressing concerns, and organizing community activities. This role is crucial for fostering a positive community environment, facilitating effective communication, and ensuring the overall well-being of the project's community.
+    - The Executive Committee is responsible for identifying business development opportunities, establishing and maintaining partnerships, and driving the commercial development of the project. This role plays a pivotal part in expanding the project's reach and ensuring its sustained growth through strategic collaborations and business initiatives.
+* Authorities
+    - The Executive Committee involves actively contributing to the formulation of project strategies and decisions. This role includes having decision-making power over the project's execution direction and key matters, ensuring a significant influence on the overall direction and success of the project.
+    - The Executive Committee is responsible for appointing individuals to senior management or specific roles within designated projects. This authority ensures the efficient operation of the project leadership team by strategically selecting individuals with the requisite skills and expertise.
+    - The Executive Committee involves overseeing the development process and execution plan of the project. This responsibility ensures that the project progresses in accordance with the established schedule and goals, contributing to the overall success of the project.
+    - The Executive Committee encompass the formulation of risk management strategies for the project. This authority enables the implementation of necessary measures to address various risks that the project may encounter. It plays a crucial role in mitigating potential challenges and safeguarding the project's success.
+    - The Executive Committee involves ensuring the legal and compliant operations of the project. This authority includes resolving legal issues and ensuring the overall legality of the project, contributing to its adherence to regulatory standards and legal integrity.
+    - The Executive Committee empowers the management of the project community. This includes engaging with community members, addressing concerns, and organizing community activities. This authority is crucial for fostering a positive and engaged community within the project.
+
 ### 7.2.5 Supervisory Committee
+The Agates Network Supervisory Committee holds the responsibility of overseeing compliance, transparency, and accountability across all aspects of the project.  
+ Additionally, it supervises and evaluates the work performance of the Project Management Committee, Executive Committee, and Technical Committee, ensuring adherence to established standards and effectiveness in their respective roles.
+
+The authority of the Agates Network Supervision Committee comes from the Community Congress, and the authority and influence of the Community Congress are granted collectively by the entire user base within the Agates Network community. 
+
+The responsibilities and authorities of the Agates Network Supervisory Committee include:
+
+* Responsibilities
+    - The Supervisory Committee is mandated to establish a comprehensive compliance framework, thereby ensuring the legal and regulatory adherence of the project.
+    - The Supervisory Committee is responsible for ensuring project transparency by overseeing the accuracy of information disclosure and reporting. It plays a key role in providing transparency into project progress and financial status to stakeholders, fostering open communication and accountability.
+    - The Supervisory Committee assesses and evaluates potential risks that the project may encounter. Its role is to ensure that the project adopts suitable risk management measures to mitigate potential uncertainties, contributing to a proactive approach in handling and reducing risks.
+    - The Supervisory Committee monitors the project's performance in terms of ethics and social responsibility. Its role is to ensure that the project maintains sustainability and has a positive impact at the social level, aligning with ethical standards and contributing to broader societal well-being.
+    - The Supervisory Committee is responsible for managing feedback and complaints from the community. Its role ensures that the community's voice is thoroughly heard, and it takes appropriate actions to address and resolve any concerns raised by community members.
+    - The Supervisory Committee involves formulating and overseeing project governance specifications. This ensures that the governance process is characterized by transparency, fairness, and effectiveness, providing a structured framework for the management and decision-making processes within the project.
+    - The Supervisory Committee is responsible for ensuring proper handling of conflicts of interest among parties within the project. This role aims to prevent potential ethical and legal issues by effectively managing situations where conflicting interests may arise among project stakeholders.
+* Authorities
+    - The Supervisory Committee oversees the operation of all aspects of the project, including finance, risk management, social responsibility, and more. Its role is to ensure that the project is executed in accordance with specifications, maintaining a comprehensive and vigilant approach to project governance and operations.
+    - The Supervisory Committee holds the right to the acquisition of information on all aspects of the project. This ensures that there is sufficient information available to fulfill supervisory duties effectively, promoting transparency and accountability within the project.
+    - The Supervisory Committee plays a crucial role in representing community interests and ensuring that the voices of the community are appropriately considered in project governance. This involvement helps maintain a balanced and inclusive approach to decision-making within the project.
+    - The Supervisory Committee empowers individuals to provide suggestions to other governance bodies within the project. This facilitates the continuous improvement of the project, particularly in terms of compliance and transparency, fostering an environment of ongoing enhancement and refinement.
+
 ## 7.3 Proposals and Voting
+In the governance system of the Agates Network project, the proposal and voting mechanisms serve as core elements, emphasizing community participation and decision-making transparency. 
+
+Acknowledging that project growth should involve the entire community, not solely the core team, we've implemented an open and democratic proposal and voting system. This ensures that community members, particularly core members, have direct participation and influence in shaping the future development of the project.
+
+* **Proposal Submission Rights:** In the Agates Network project governance, any community member has the right to submit a proposal to the Management Committee or Executive Committee. These proposals can encompass various aspects, such as technology upgrades, funding allocations, partnerships, or changes to governance rules. Submitters are required to provide detailed information, including the purpose, content, expected effects, and resources required for their proposals. This mechanism encourages a diverse range of contributions and ideas from the community.
+* **Proposal Review Process:** Upon submission, each proposal undergoes a review by the Agates Network Management Committee. This review aims to ensure compliance with project governance provisions, clarity, and adherence to the project's fundamental principles. The Management Committee promptly completes the review process and offers feedback to the proposer, facilitating a transparent and efficient evaluation of proposed initiatives.
+* **Proposal Revision and Collaboration:** If a proposal requires further improvement or refinement based on feedback from the review, the proposer is encouraged to make revisions. This collaborative process is designed to enhance the quality and feasibility of proposals. The Management Committee maintains open communication with proposers throughout this process, ensuring that the proposals align with the needs of the project and the community.
+* **Voting Stage Establishment:** Once a proposal successfully passes the review, it progresses to the voting stage in the Agates Network project governance. The Management Committee takes the responsibility to establish specific rules for the voting process, covering aspects such as voting time, weight distribution, and more. These rules are meticulously designed to ensure that the voting process remains fair, transparent, and efficient, fostering community engagement in decision-making.
+* **Voting Notice Issuance:** In the Agates Network project governance, the Management Committee ensures broad community participation by issuing voting notices to community members. These notices contain comprehensive information about the proposal, voting rules, and the timeline. This approach allows community members sufficient time to thoroughly review the proposals, promoting an informed and inclusive decision-making process within the community.
+* **Voting Execution and Weight Distribution:** During the voting execution in the Agates Network project governance, community members possess the right to cast their votes for or against proposals. The weight of each vote is proportional to the number of AGAT coins held by the voter. This ensures that individuals with more AGAT holdings have greater influence, safeguarding the interests of long-term AGAT holders and fostering a governance system that reflects the broader community's perspectives.
+* **Implementation of Approved Proposals:** Upon approval of a proposal, the Management Committee and Executive Committee take the lead in initiating the necessary implementation steps. The project's governance body and execution team are tasked with swiftly and accurately executing decisions made by the community. This ensures the efficient implementation of approved proposals, aligning with the collaborative decision-making process within the project.
+* **Continuous Governance Improvement:** Continuous improvement is integral to the Agates Network project governance system. The project community consistently reviews governance rules and mechanisms, making adjustments based on practical experience and community feedback. This iterative process ensures the adaptability of the governance system to changes in project development and evolving community needs, fostering a dynamic and responsive framework for decision-making and community involvement.
+
+The proposal and voting mechanism in place ensures that the entire Agates Network community's voice is thoroughly heard. This approach provides community members with a direct opportunity to participate in project decision-making.   
+We anticipate and value the wisdom and consensus of the community, as together we aim to foster the continuous development and growth of the project through collaborative efforts.
+
 # 8. Community Building
 ## 8.1 Community Values
-## 8.2 Multi-level Organization
-## 8.3 Online Community
-## 8.4 Offline Community
-## 8.5 Decentralized User Services
-# 9. Growth Engine
-## 9.1 User Acquisition
-## 9.2 User Retention
-## 9.3 Community Activity
-## 9.4 User Interaction
-## 9.5 Partnerships
-## 9.6 Data Driven
-# 10. Development Plan
-## 10.1 PMF Phase
-### 10.1.1 MVP Phase
-### 10.1.1 PMF Phase
-### 10.1.1 RRR Phase
-## 10.2 Testnet Phase
-### 10.2.1 Community Growth
-### 10.2.2 Business Expansion
-### 10.2.3 Ecosystem Building
-## 10.3 Mainnet Phase
-### 10.3.1 Brand Enhancement
-### 10.3.2 Open Trading
-### 10.3.3 Global Presence
-# 11. The Glory and the Dream
-## 11.1 Equality of All
-## 11.2 Fair Return
-## 11.3 Harmony Throughout the World
-# 12. Legal & Compliance
-# 13. Risk Disclosure
-# 14. Disclaimer
-# 15. Contact
+In the construction of the Agates Network project, we adhere to a clear community vision and core values.  
+Our goal is not only to construct a blockchain digital economic platform but also to leverage blockchain technology for promoting a more equitable distribution of commercial benefits among global Internet users.   
+Striving to establish a community resembling the "Rome Citizens Assembly," with core values of openness, transparency, equal participation, and win-win sharing, reflects a commitment to fostering a supportive environment for the growth of the project's user group. 
 
+This vision emphasizes the importance of inclusivity and collaboration within the community.
+
+* **Empowering Equitable Participation:** Agates Network is dedicated to collaboratively constructing a fair sharing platform for the digital economy. The commitment revolves around the belief that the progress of Internet technology should empower all users to equally partake in the business opportunities arising from innovation. Utilizing blockchain technology, Agates Network aims to disrupt the inequalities inherent in traditional Internet business models, establishing a more open and equitable economic ecosystem. The goal is to enable every user to share in the benefits of digital economic development.
+* **Fostering Transparency and Participation:** The Agates Network community is envisioned as a genuine "citizens' assembly," where every member holds the right to express their views and opinions. Decision-making and operational processes within the community will uphold high transparency standards. Community members can gain insight into the project's development direction and the rationales behind decisions, fostering a closer relationship built on trust. Participation in decision-making is not just a right; it's a driving force for us all to collaboratively propel the project's development forward.
+* **Upholding Openness and Equality:** In the Agates Network community, openness and transparency stand as foundational principles. We actively encourage community members to share information and exchange ideas, ensuring the project's operational processes are visible to everyone. Simultaneously, we place a strong emphasis on equal participation. Whether one is a node operator, developer, or an ordinary user, all enjoy equal rights and opportunities within the community. This commitment underscores the inclusive nature of the community.
+* **Building a Collaborative Win-Win Ecosystem:** The Agates Network community thrives on a sharing and win-win ecosystem. Leveraging blockchain technology, we've implemented a decentralized digital economic model, enabling every community member to partake in the added value of digital assets. The collective endeavors of community members propel the development of the entire ecosystem, generating more business value and fostering a win-win situation for all involved. This collaborative approach underscores the interconnected and mutually beneficial nature of the community.
+* **Enhancing User Services for Growth:** Recognizing the importance of a growing user base for a thriving community, Agates Network is dedicated to enhancing user services and experiences. The goal is to attract more users to actively participate in our community. By continually introducing innovative digital asset application scenarios and offering more opportunities for community involvement, we aim to facilitate the continuous expansion of our user groups. Together, we strive to promote the sustainable development of the project through collaborative efforts.
+
+Agates Network serves as the driving force uniting us to collaborate and foster prosperity. Anchored in the community's principles of openness, transparency, equal participation, and win-win sharing, we aspire to build a model community for the digital economy.  
+We eagerly anticipate witnessing the ongoing development and prosperity of Agates Network, forged through the collective efforts of our community.
+## 8.2 Multi-level Organization
+The Agates Network community is conceived to create a multi-level ecosystem catering to users with diverse needs and at different levels of engagement.  
+In this conceptualization, we plan to establish distinct community levels, including the Agates Community, Community Congress, Partner Meeting, and Core Team. Each of these levels will have unique roles and functions, tailored to serve users effectively based on their specific requirements and engagement levels.
+
+The Community Congress stands as the cornerstone of the Agates Network community.  
+At this level, we aim to unite users from all corners of the world, irrespective of their identity or background, allowing them equal participation in and sharing of the community's development results. This community serves as a gathering place for all users, providing a platform for collective brainstorming and decision-making.  
+It embodies the inclusive nature of the Agates Network, fostering collaboration among diverse participants.
+
+As the community evolves, we plan to introduce a community of User Representatives. 
+At this level, we will democratically elect representative users to serve as spokespersons and active participants in the community. These User Representatives will play a crucial role in conveying the community's voice to the project team, establishing a more direct communication channel for the user group.  
+They will also actively participate in decision-making and contribute to planning the direction of community development.
+
+In the Partner Meetings, we aim to establish closer cooperative relationships with partners who have long-term interest-binding connections with Agates Network.  
+This community level will serve as a platform for sharing resources and exploring cooperative opportunities, contributing to the joint promotion of digital economy development. 
+It is envisioned to bring additional business opportunities and foster innovation for the benefit of community members.
+
+The Core Team stands as the highest level within the Agates Network community structure.  
+Core users, recognized for their significant contributions and high level of activity, will have the opportunity to engage in more profound decision-making and planning. They will assume leadership roles and become opinion leaders in the community. The Core User community is envisioned to be the driving force in community development, working collaboratively to achieve substantial accomplishments.
+
+With this multi-level community design, Agates Network aims to cultivate an organic, diverse, and interactive digital economic ecosystem. Each community level will offer users enhanced participation opportunities and services, collectively building a future that is win-win and shared in the realm of the digital economy.
+## 8.3 Online Community
+The Agates Network community's online activities will take place on the world's most popular instant messaging tools, including Telegram, WhatsApp, Discord, and X.  
+Leveraging the convenience and widespread use of these tools, we will strategically organize volunteers to drive various dynamic and growth-oriented operational activities. The goal is to foster closer connections between users and the community while enhancing the community's influence in the online space. 
+This approach aims to create an engaging and impactful digital environment for community members.
+
+In Telegram, we plan to create real-time communication groups to deliver instant project updates, community dynamics, and an interactive communication platform. These groups will facilitate Q&A sessions, topic discussions, and prize competitions, aiming to stimulate user interest and encourage active participation. 
+
+WhatsApp, on the other hand, will serve as a more private communication channel. We intend to establish exclusive community groups to cater to users' desire for personalized and unique experiences, providing a more intimate and direct platform for community participation. This approach enhances the user experience by tailoring communication channels to meet diverse preferences.
+
+Utilizing Discord as a multi-functional social platform, we plan to offer both text and voice communication functions. Different thematic channels will be set up to cover various aspects such as project progress, technical discussions, and opinion sharing. This approach provides users with a broader array of choices and the freedom to participate in diverse discussions and activities within the community based on their interests and needs. Discord will serve as a versatile space for community members to engage in meaningful conversations and interactions.
+
+Platforms like X will leverage their unique characteristics to offer users more diversified interactive experiences and opportunities for community participation. Through these platforms, volunteers will establish more direct and intimate communication channels with users. They will actively collect user feedback, gaining an in-depth understanding of their needs and expectations to better align with user expectations. This personalized approach aims to enhance the overall user experience and strengthen the connection between community members and the Agates Network project.
+
+By organically integrating these instant messaging tools, we aim to overcome the limitations of time and space. This integration will enable shared interaction among users from around the globe, allowing us all to collectively witness the prosperity and development of the Agates Network community. 
+
+## 8.4 Offline Community
+The Agates Network community extends beyond the digital realm, and we actively encourage and support users to organize localized offline activities in the real world.   
+Recognizing that Agates Network is a globally distributed project, we anticipate that spontaneous offline community activities organized by users will help establish deeper community connections across a broader geographical scope. These real-life interactions contribute to fostering a sense of community and collaboration beyond the virtual space.
+
+We actively encourage core users to take on the role of organizers for offline events.   
+Core users, possessing a deeper understanding of the Agates Network project, are well-equipped to effectively convey the core concepts and vision of the project. Offline activities organized by core users may include gatherings, seminars, technical salons, and more.  
+These events serve to promote face-to-face communication among users, enhance interaction within the community, and contribute to deepening awareness and participation in the Agates Network project.
+
+To bolster these offline activities, the Agates Network project team is committed to providing comprehensive support, encompassing assistance in funds, resources, planning, and more.  
+We pledge to offer financial and resource support to event organizers, ensuring the seamless progress of their activities. Additionally, we will furnish necessary promotional materials, event support, and organizational guidelines to aid organizers in the smooth planning and execution of events.  
+This support underscores our dedication to facilitating successful offline engagements within the Agates Network community.
+
+The combined approach of online and offline community building aims to deepen the influence and cohesion of the Agates Network community.  
+Through independently organized offline activities by users, our goal is to establish Agates Network community branches with local characteristics in various locations. This grassroots effort intends to spread the influence of the community more widely and profoundly. It also contributes to a richer community culture within the Agates Network project, accelerating its development and dissemination.  
+Together, we aspire to build a closer and more engaging global community network.
+## 8.5 Decentralized User Services
+The user service system of the Agates Network community embodies advanced ideas and values of "decentralization," presenting a novel approach to serving users.  
+Departing from traditional reliance on centralized institutions, our user service process is orchestrated by a dedicated group of passionate volunteers who believe in the Agates Network project. 
+
+* These volunteers act as community service guides and connectors, wholeheartedly committed to delivering comprehensive and efficient support to the majority of community users. This decentralized service model aims to enhance user experiences and foster a more community-driven support system.
+* Volunteers will assume the crucial role of offering usage guidance to community users. They will provide explanations on the core functions of the Agates Network project, platform operation procedures, and the utilization of AGAT coins. This decentralized service model ensures closer proximity to user needs and facilitates timely assistance, allowing new users to swiftly comprehend and proficiently use our products. The volunteer-led support system aims to enhance the onboarding experience and make assistance readily available when needed.
+* Volunteers will serve as the primary support force in addressing questions from community users. They will take on the responsibility of resolving issues encountered by users during their interaction with the platform. Whether the challenges are technical, operational, or related to other aspects, volunteers will exert their best efforts to assist and offer personalized answers and suggestions to users. This hands-on approach ensures that users receive tailored support and guidance to overcome any difficulties they may encounter.
+* Volunteers will actively engage in collecting user suggestions. By maintaining close interaction with users, they aim to understand their needs, expectations, and feedback. Volunteers will then relay this valuable information to the Agates Network project team, facilitating ongoing optimization of products and services. This collaborative approach ensures that user perspectives and insights are effectively communicated, contributing to the continuous improvement of the Agates Network project based on user feedback.
+* Volunteers will play a crucial role in facilitating the exchange of opinions and feedback within the community. They will organize both online and offline community discussions and activities to stimulate interaction among users, enhance community cohesion, and guide users in proposing various proposals. This approach fosters community autonomy, providing every user with the opportunity to contribute their wisdom and strength to the future development of Agates Network. The active involvement of volunteers helps create a dynamic and participatory community environment.
+
+The decentralized user service process is poised to significantly broaden the scope and depth of community services, fostering a more open, free, and vibrant community environment. Volunteers within the Agates Network community will play an irreplaceable role in this process, collaborating to establish a genuinely user-oriented decentralized community. Their dedication and contributions will contribute to a dynamic and supportive community ecosystem that empowers users and enhances their overall experience.
+
+# 9. Growth Engine
+We deeply understand the importance of rapid growth in user scale to the success of the project. 
+We have meticulously crafted an all-encompassing and efficient growth strategy, spanning critical areas such as user acquisition, retention, community activity, interaction, and strategic partnerships.
+
+Our commitment to this strategic framework, coupled with data-driven optimization and a dedication to continuous innovation, is geared toward the establishment of a robust and flourishing ecosystem. This serves as a cornerstone for the sustained, long-term development of the Agates Network. 
+
+Our objective is to garner global recognition for the Agates Network project, ensuring an ongoing expansion of the user base. In doing so, we aim to provide exceptional services and experiences to an increasingly diverse user group, solidifying our position in the global landscape.
+## 9.1 User Acquisition
+To swiftly amass a global user base for the Agates Network project, we've devised practical user acquisition strategies spanning key aspects. 
+
+* Initially, targeted social media marketing on various platforms will be deployed. Consistent publication of engaging and valuable content, coupled with active user interaction, aims to cultivate a positive brand image across social media channels.
+* Additionally, a strategic emphasis on digital marketing channels, leveraging diverse tools, will enhance the project's online visibility. Precision in advertising strategies will be employed to attract individuals intrigued by blockchain technology and digital assets, guiding them to comprehend and engage with the Agates Network.
+* Simultaneously, we'll broaden the awareness of the Agates Network among a larger audience of social media users by fostering community interaction and implementing strategic community operations. These efforts aim to spark interest and active participation.
+* Furthermore, we'll incentivize existing users to introduce new participants to the Agates Network through preferential activities and reward programs. Leveraging word-of-mouth communication, this approach seeks to establish a virtuous cycle of user growth, ensuring the continual expansion of the project's user base.
+* Certainly, we are proactively pursuing collaboration opportunities with other blockchain projects, industry summits, and community organizations. Through strategic partnerships and joint promotional efforts with allies in related fields, we aim to leverage their resources and influence to expedite the project's publicity and promotion, thereby rapidly expanding its visibility.
+
+The integration of these diverse user acquisition strategies is poised to establish a robust user group for the Agates Network in its initial stages. This solid foundation will pave the way for subsequent community building and contribute to the healthy development of the ecosystem.
+## 9.2 User Retention
+With a focus on user experience and relationship maintenance, Agates Network has formulated a set of comprehensive and adaptable user retention strategies. 
+
+* The primary emphasis lies in crafting a user-friendly product interface and operating experience for Agates Network. Continuous optimization of the user experience aims to provide a seamless and enjoyable interaction, mitigating the risk of user churn resulting from inconvenience.
+* Secondly, the establishment of a robust volunteer service team is a key initiative. This team will offer timely customer service support to address user issues and suggestions effectively. Utilizing a multi-channel, multi-language customer service system, we aim to deliver professional solutions promptly, enhancing users' trust in Agates Network.
+* Furthermore, a range of incentive programs will be introduced to encourage sustained user participation. These initiatives, including rewards for active users, ranking lists, and membership systems, among others, are designed to actively engage users in the Agates Network community. The goal is to boost user stickiness and retention rates through these incentives.
+* Regular introduction of new features and services is integral to keeping the Agates Network fresh and appealing. Recognizing that users' preferences for innovation and updates evolve, continuous technology upgrades and feature enhancements will be implemented. This approach aims to provide users with added value, thereby preventing user attrition due to obsolescence and ensuring the project remains dynamic and relevant.
+* Lastly, our strategy includes cultivating a positive and active community culture. Through a combination of online and offline community activities, we aim to unite users and foster communication and interaction among them. Engaging community activities, internal recommendation programs, and other initiatives will encourage increased participation in the Agates Network community, facilitating the formation of a tighter-knit user group.
+
+These are designed to ensure that once users are attracted, their ongoing participation and loyalty are consistently stimulated.
+
+## 9.3 Community Activity
+Absolutely, the success of Agates Network hinges on cultivating a robust, active, and closely connected community.  
+We firmly believe that a vibrant community not only provides crucial support, feedback, and innovation to the project but also enhances users' sense of belonging to Agates Network.  
+Consequently, we consider community building to be a vital and integral component of our growth engine.
+
+* To establish a comprehensive community network, we'll create a multi-level community structure. Ranging from the global Agates Community to Community Congress, Representative Meeting, Partner Meeting, and Core Team, each level will offer an exclusive platform for communication and interaction tailored to users at different levels. This approach aims to build a community closely aligned with user needs, fostering heightened user engagement.
+* Secondly, we're promoting active community participation through various online platforms, such as Telegram, WhatsApp, Discord, and more. These platforms will serve as primary spaces for users to access the latest project updates, engage in discussions, offer suggestions, and share experiences. A dedicated community management team will be established to organize diverse online activities, fostering connections among users and enhancing community cohesion from a community-building perspective.
+* Simultaneously, we're encouraging and supporting users to organize localized offline activities, recognizing the global reach of Agates Network. Through these local initiatives, we aim to foster genuine and meaningful communication among users, enhancing trust in Agates Network. To facilitate these activities, the project will provide necessary support, including assistance in funding, resources, and event planning.
+* To sustain community vitality, a dedicated community service team comprising volunteers will be formed. This team will offer a wide range of services, encompassing user guides, Q&A, suggestion collection, feedback, proposal review, and more. These volunteers will actively engage in the community, providing support and assistance to fellow users.
+
+Through these comprehensive community-building initiatives, Agates Network aims to forge a robust and tightly-knit community, offering stable support for the project's long-term development.
+## 9.4 User Interaction
+In the Growth Engine of Agates Network, user interaction is a key factor that drives community vitality and project development. 
+ We emphasize open and diverse user interaction, promote connections between users through multi-faceted participation, and improve user retention and satisfaction.
+
+* As a first step, we're setting up a comprehensive array of interactive platforms, encompassing social media, online forums, and instant messaging tools. These platforms will serve as hubs for users to access the latest information, share experiences, and engage in discussions. We actively encourage users to participate in diverse topics, contribute suggestions, and share content related to Agates Network. This interactive environment not only provides real-time information but also deepens users' understanding of the project, fostering stronger community connections.
+* In the second phase, we're encouraging users to actively engage in various online activities on the platform, including AMA (Ask Me Anything) sessions, interactive live broadcasts, knowledge contests, and more. These activities not only afford users direct interaction with the project team but also bolster communication among users, contributing to the formation of a tighter-knit community network.
+* Simultaneously, users will be empowered to partake in project decision-making through community voting and other inclusive methods. This open governance approach aims to grant users a more direct role in the project's development, fostering a heightened sense of identification. In the Agates Network community, every user is considered a vital participant with opportunities to actively contribute to decision-making and project development.
+* Furthermore, we're encouraging users to actively participate in the "User Contribution Program," where they can earn incentives by sharing content, recommending new users, and providing valuable suggestions. This incentive plan is strategically designed to kindle users' enthusiasm, fostering increased participation in the construction and development of Agates Network.
+
+With the implemented measures, our goal is to cultivate a vibrant and interactive community where users not only benefit from the project but also actively participate and promote its development.  
+The engaged interaction of users will serve as a robust pillar of support for the sustainable development of Agates Network.
+## 9.5 Partnerships
+Agates Network prioritizes the establishment of a robust partnership network to propel the ongoing development of the project and broaden its influence.  
+Our commitment lies in forging diverse, mutually beneficial, and win-win partnerships spanning technology, business, community, and various other fields.
+
+* As a primary step, we aim to foster in-depth cooperative relationships with e-commerce platforms, digital content providers, online game developers, and other entities. By leveraging the combined resources of all parties, our goal is to offer users more comprehensive services, expand the application scenarios, and broaden the user base of Agates Network.
+* In the second phase, our strategy involves establishing strategic partnerships with industry leaders and professional institutions in the technology field. This encompasses collaborations with blockchain technology companies, smart contract developers, cybersecurity experts, and more. Through these partnerships, we aim to harness the expertise of professionals in these technical domains to continually enhance the technical strength and security of Agates Network.
+* In the realm of community, we actively encourage the establishment of collaborative relationships with other blockchain projects, community organizations, and digital asset enthusiasts. Embracing an open cooperation model, this approach aims to foster the shared development of the industry and fortify Agates Network's position within the blockchain ecosystem.
+* Crucially, as Agates Network is a global blockchain project, we prioritize maintaining close contact with professionals, institutions, and teams in the blockchain field across major countries and regions. This strategic approach facilitates brand promotion and market development by garnering support from partners in marketing, attracting investments, and expanding business.
+
+Through actively cultivating this multi-level partner network, Agates Network aims to receive support in technical, commercial, legal, and various other aspects.  
+This comprehensive approach is designed to enhance the overall strength of the project and foster its sustained growth.
+## 9.6 Data Driven
+Indeed, in the growth engine of Agates Network, a key strategy is the data-driven approach.  
+By employing scientific analysis and leveraging data, we aim to gain a more accurate understanding of user needs, optimize user experience, and swiftly make informed decisions to foster the healthy development of the project.
+
+* To begin, we will implement a robust data collection and analysis system. Utilizing methods such as user behavior analysis, transaction data tracking, and community activity monitoring, we aim to gain a comprehensive understanding of users' activities and needs on the platform. This encompasses not only basic user registration, login, shopping, and interaction data but also extends to users' social behavior, payment preferences, consumption habits, and other informational aspects. The resulting comprehensive dataset will offer in-depth user insights, providing a strong foundation for decision-making.
+* In the second step, we plan to establish an intelligent data analysis and mining system. Incorporating machine learning and artificial intelligence technologies, this system will enable us to identify potential trends, user preferences, and market opportunities within large datasets. This advanced capability will enhance our ability to accurately predict user behavior, optimize products and services, and make timely adjustments to operating strategies. For instance, we can leverage the system to recommend personalized products by analyzing user shopping history and uncover potential social needs through the analysis of community interactions.
+* As the third step, we intend to establish mechanisms for data sharing and transparency. While prioritizing user privacy, we will proactively share certain data with users to bolster their trust in the project. Transparent data sharing not only allows users to better comprehend their behavior and its impact on the platform but also facilitates their involvement in community governance decisions. This sense of participation is anticipated to prompt users to engage more actively in platform activities, creating a virtuous cycle.
+In addition, particular emphasis will be placed on constructing a robust data security and privacy protection system. Recognizing the sensitivity of user data, we will employ advanced encryption technology and stringent data access controls to ensure the security and privacy of user information. Upholding user data security stands as the foremost guarantee for the success of our data-driven strategy.
+
+In summary, a data-driven approach will serve as a crucial engine for the ongoing growth of Agates Network.  
+Through the thoughtful utilization and protection of user data, we aim to gain better insights into user behavior, enhance user experience, and enable the project to distinguish itself in a highly competitive market.
+# 10. Development Plan
+The Agates Network blockchain project unfolds in three pivotal phases: PMF (Product Market Fit) Phase, Testnet Phase, and Mainnet Phase, each tailored to achieve distinct goals and key milestones.  
+
+In the PMF Phase, the emphasis is on product market fit, with a gradual improvement of the product and the collection of user feedback through the three subdivision phases of MVP, PMF, and RRR.  
+The Testnet Phase shifts the focus to community building, expanding application scenarios, and constructing the ecosystem, facilitating the project's integration into practical applications and establishing a robust community and partner network.  
+Finally, in the Mainnet Phase, the focus shifts to brand building, open trading, and global expansion, ensuring a steady promotion of the project into the global market.
+
+The meticulously crafted development roadmap is designed to ensure the continuous advancement of Agates Network at every stage.  The goal is to attract more users and establish an influential blockchain ecosystem on a global scale. This strategic approach aims to create a sustainable and impactful presence in the dynamic landscape of blockchain technology.
+## 10.1 PMF Phase
+In the PMF Phase, the primary focus is on achieving product-market fit. This involves a systematic approach, gradually refining the product and gathering valuable user feedback across the three sub-phases of MVP (Minimum Viable Product), PMF (Product Market Fit), and RRR (Retention , Revenue, Referral) .  
+This iterative process aims to enhance the product's alignment with market needs and user expectations.
+### 10.1.1 MVP Phase
+In the MVP (Minimum Viable Product) phase, the initial phase of Agates Network project development, the objective is to swiftly create a basic product with essential functionalities.  
+Our primary focus is on designing and developing the Agates Network mobile application, aiming to showcase the core concepts and innovative features of the project. This product will serve as an initial demonstration of blockchain technology application, highlighting the innovation and advantages of Agates Network.  
+Continuous iterations based on user feedback will be undertaken to enhance functionalities and improve user experience.
+### 10.1.1 PMF Phase
+The PMF (Product-Market Fit) phase is a pivotal phase in the development planning of the Agates Network project.  
+Building upon the success of the MVP phase, our focus shifts to a profound exploration of user needs. We will continuously optimize product functions, enhance user experience, and strive for a perfect alignment between the product and the market.  
+Introducing more innovative features and services, we aim to progressively meet user expectations and establish a fitting position in the market.  
+Simultaneously, efforts will be directed toward strengthening community building, expanding the user base, and ensuring widespread recognition of Agates Network across diverse groups.
+### 10.1.1 RRR Phase
+In the development journey of the Agates Network project, the RRR phase (Retention, Revenue, Referral) emerges as a pivotal phase for achieving sustainable growth.  
+The focus shifts towards enhancing user retention by continuously optimizing product experience, increasing user stickiness, and building a sustainable business model through a deep understanding of user needs. Diversified revenue sources will be explored to achieve financial sustainability.  
+Additionally, the launch of a compelling incentive plan aims to further expand the project's influence through user word-of-mouth communication, fostering a robust ecosystem for spontaneous user interaction.
+## 10.2 Testnet Phase
+During the Testnet Phase, the primary focus will be on community building, expanding application scenarios, and constructing the ecosystem. This strategic emphasis aims to facilitate the gradual integration of the project into practical applications, fostering a strong community and partner network.  
+This phase is instrumental in establishing a solid foundation for the broader adoption and sustainability of the Agates Network.
+### 10.2.1 Community Growth
+In the Community Growth phase of the Agates Network project, the key focus will be on reinforcing the community governance mechanism, enhancing user participation, and expanding the community ecosystem.  
+This involves promoting the establishment of a more decentralized, transparent, and fair governance system. Active guidance will be provided to encourage users to participate in community construction, and tools such as community voting and proposal mechanisms will be introduced. The goal is to achieve more direct user participation in shaping the future development direction of the project, ensuring decision-making aligns more closely with the community's interests.  
+This approach aims to make the Agates Network community a vibrant and creative ecosystem.
+### 10.2.2 Business Expansion
+In the Application Scenario Expansion phase of the Agates Network project, our commitment lies in the seamless integration of blockchain technology with practical application scenarios.  
+This entails providing users with a broader spectrum of services encompassing e-commerce, digital content, social entertainment, online games, tool products, and more.  
+The overarching goal is to offer users a more diverse and convenient array of services through the expansion of application scenarios, fostering the all-round development of the project.
+### 10.2.3 Ecosystem Building
+In the Ecosystem Building phase of the Agates Network project, we actively encourage users to share their skills, content, goods, or services, contributing value to the community and receiving corresponding benefits.  
+This phase focuses on stimulating the creativity of core users, empowering them to become providers of goods or services and deeply engage in our application scenarios.
+
+The ultimate goal is to construct an ecosystem brimming with creativity and vitality, transforming users into more than just platform users – they become active participants in an ecosystem where they contribute to and share value collectively.  
+Through such deep engagement, users will have the opportunity to reap greater rewards from the success of the project.
+## 10.3 Mainnet Phase
+In the Mainnet Phase, the primary focus will be on brand enhancement, open trading, and global expansion.  
+This strategic emphasis aims to ensure the steady promotion of the project to the global market. Establishing a strong brand presence, facilitating open trading, and expanding globally are key components of this phase to solidify the position of the Agates Network on the global stage.
+### 10.3.1 Brand Enhancement
+In the Brand Enhancement Phase of the Agates Network project, our strategy involves comprehensive efforts to enhance brand awareness and influence. Utilizing a mix of free and paid promotion methods, including social media promotion, content marketing, participation in industry events, cooperative promotion, and advertising, we aim to make significant strides in brand development.  
+Through these initiatives, the goal is to ensure that the name of Agates Network becomes deeply rooted in the hearts of the people and evolves into one of the trusted brands among users.
+### 10.3.2 Open Trading
+During the Open AGAT Trading phase of Agates Network, the focus will be on submitting AGAT coins to major mainstream cryptocurrency trading markets, enabling users to freely trade through the open market and realize the value of AGAT. 
+
+In this phase, key steps will include:
+
+* During the Open AGAT Trading phase, the collaboration with well-known digital asset trading platforms is a crucial step. By officially launching AGAT coins on these platforms, we aim to provide users with convenient and fast trading channels, facilitating the seamless exchange of AGAT coins in the cryptocurrency market.
+* Market promotion will be actively conducted during this phase, leveraging various media resources to enhance the exposure of AGAT coins. Through widespread market promotion efforts, the goal is to attract a larger number of traders to participate in the trading of AGAT coins on the digital asset trading platforms.
+* By collaborating with professional market traders, we aim to ensure sufficient liquidity in the market during the Open Trading phase. This partnership seeks to guarantee that users can access fair market prices when engaging in the trading of AGAT coins on the digital asset platforms.
+* To boost transaction volume, promotional activities and airdrop rewards will be deployed during the Open Trading phase. These initiatives aim to attract more users to actively participate in transactions, fostering increased transaction activity for AGAT coins on the trading platforms.
+* Continuing the trading pair promotion, efforts will focus on expanding AGAT's trading pairs. Establishing trading pairs with other mainstream digital assets will be a priority, enhancing the liquidity and market recognition of AGAT coins. This strategic approach aims to broaden the trading options for users and strengthen AGAT's position within the digital asset market.
+
+Through the implementation of this series of measures, our goal is to offer users a safe and convenient trading environment during the open trading phase.  
+This approach is designed to empower users in managing and realizing the value of their AGAT coins with ease and confidence.
+
+### 10.3.3 Global Expansion
+Agates Network's strategic focus involves promoting the project, expanding the user base, and boosting AGAT's transaction price and overall influence. This will be achieved by establishing localized communities and business sectors in key regions worldwide.
+
+The concept of Agates Network will be disseminated globally through comprehensive marketing and promotion activities, leveraging social media, industry summits, online and offline events, and other channels to guide global users in understanding and participating in the project.  
+Local communities in key areas will be established, with dedicated professional teams responsible for local market expansion and user services.
+
+Collaborative relationships will be forged with internationally renowned companies and blockchain institutions to jointly propel the business development of Agates Network on a global scale. Additionally, localized business segments will be established in key regions, encompassing local digital asset services, partnership building, and more.
+
+Through these strategic measures, the goal is to position Agates Network as the preferred digital asset service platform for global users.  
+This comprehensive approach aims to consistently increase the transaction price of AGAT and contribute to the long-term, healthy development of the project.  
+By fostering a strong global presence, expanding user engagement, and solidifying partnerships, Agates Network endeavors to establish itself as a prominent and trusted player in the digital asset ecosystem.
+# 11. The Glory and the Dream
+The deliberate inclusion of the "The Glory and the Dream" chapter in the white paper is aimed at ensuring that each reader attains a profound comprehension of the Agates Network team's initial purpose in conceiving this project.   
+This chapter seeks to articulate our vision for the future and underscore our steadfast belief in core values, serving as a testament to the aspirations and commitment propelling the Agates Network project forward.
+
+The Agates Network blockchain project is grounded in a quest for innovation and a dedication to fairness.   
+Team members, boasting substantial experience in the global Internet industry, possess a profound understanding of the historical evolution of Internet technology, encompassing the driving forces and business models stemming from its rapid advancement. While recognizing the substantial benefits brought forth by Internet technology, the team is equally conscious of the injustices it has engendered.   
+Hence, the strategic adoption of blockchain technology in the Agates Network project is intended to address and provide solutions to these challenges.
+
+Within "The Glory and the Dream" chapter, we will elaborate on the three fundamental values we uphold: Equality for All, Fair Return, and Global Harmony.   
+These values not only form an integral part of our philosophy but also embody our unwavering belief in shaping a more just and inclusive digital society. 
+
+The chapter is designed to articulate the principles that underlie our vision for Agates Network, emphasizing the significance of promoting equality, fairness, and global harmony in the digital domain.
+## 11.1 Equality for All
+Agates Network staunchly adheres to the core value of "Equality for All," aiming to establish an open and egalitarian digital ecosystem. The firm conviction is that in the digital age, everyone should enjoy equal opportunities and rights, a principle woven seamlessly throughout the entirety of the Agates Network project.
+
+In the Agates Network ecosystem, every user, irrespective of nationality, color, gender, age, or education, is considered an equal member. Our endeavor is to eliminate inequalities in the digital realm, forging a genuinely open and barrier-free network environment through the utilization of blockchain technology.
+
+Our foremost principle is non-discrimination, ensuring that users, regardless of their location or cultural background, receive fair treatment on the Agates Network platform. Beyond being a mere project, Agates Network is a global community that unites diverse cultures, transcending digital boundaries and offering equal opportunities for users worldwide to participate.
+
+Secondly, our emphasis lies on providing equal opportunities for participation. Each user is afforded an equal chance to engage in decision-making, contribute suggestions, and voice opinions. We actively encourage users to express their perspectives and actively participate in the governance and development of the project, ensuring that every voice is accorded equal consideration.
+
+Our commitment is to narrow the digital divide, ensuring that all users equally reap the benefits of Agates Network. By reducing the barriers to entry for digital technology, we strive to enable more people to effortlessly engage in the digital economy and partake in the dividends ushered in by digitalization.
+
+In the Agates Network project, users are only required to provide their nationality, excluding any other personal information, including email addresses. While users have the option to set a personalized avatar, it's not obligatory. We firmly believe that true "equality for all" is attainable only when "anonymity" is safeguarded.   
+This design is geared towards enabling users to equally partake in platform activities and decision-making with anonymity as a foundation. Through this principle, we are dedicated to shaping a more just, open, and genuinely equal digital era.
+## 11.2 Fair Return
+In the philosophy of Agates Network, we hold the belief that the world, particularly the Internet sphere, evolves through user contributions.  
+Hence, in the project's development, the distribution of benefits is envisioned to be fair and equal, aligning with each user's contribution to the Agates Network project.
+
+In this era of globalization, the pursuit of fair returns extends beyond specific fields, becoming a driving force for the overall development of the world. Whether in the realm of the Internet or across various social levels, the principle of fair returns plays a crucial role in fostering stable and sustainable growth in society.
+
+Primarily, we staunchly believe that user contribution is pivotal to the project's success. Agates Network is not merely a technological platform; it is a digital ecosystem constructed by users. Each user is an integral part of the system, collectively fostering the project's development through their active participation and contributions. Whether engaging in community governance, offering valuable suggestions, or bringing in new users through promotion, every contribution holds significance in the prosperity of the project.
+
+Secondly, we regard rewards as a mutual contract. In the Agates Network project, we not only acknowledge each user's contributions but also ensure they receive commensurate rewards. This return extends beyond the project itself, encompassing the individual benefits of users. Through a rational incentive mechanism, we intricately link users' contributions with their personal interests, establishing an equitable contract between contribution and return.
+
+The Agates Network project utilizes blockchain technology for a transparent and traceable incentive mechanism. Contributions from each user are recorded on the non-tamperable blockchain, ensuring fair protection of contributors' rights and interests. This approach not only encourages more active user participation but also establishes a virtuous cycle, fostering the sustainable development of the project.
+
+We encourage users to engage in governance decisions, provide suggestions, share experiences, and recognize their individual value through these contributions. Each user has the chance to attain significant returns through the Agates Network project, with these returns fully reflecting their unique contributions to the project's development.
+
+In the realm of Agates Network, fair returns are not merely a commitment but also the cornerstone of the project's sustainable development. Establishing an ecosystem where contributions and rewards are equitable, we aim to create a genuinely just and fair digital era for users.
+## 11.3 Global Harmony
+Human society has grappled with the enduring pain and friction stemming from inequality. Disparities among regions, countries, and groups have fueled numerous wars and conflicts, ensnaring humanity in an unending vicious cycle. Against this historical backdrop, the Agates Network team embraces the ideal of "Global Harmony" (i.e. 天下大同) and is devoted to addressing the issue of inequality, striving to create a world characterized by harmonious coexistence.
+
+The understanding that inequality serves as the root cause of war is well-founded. Throughout history, many conflicts have arisen from competition for resources, geopolitical tensions, and unequal social structures. To attain peace and avert conflicts, it is imperative to fundamentally address the existence of inequality.  
+The vision of Agates Network is to foster the redistribution of Internet interests and achieve a balanced distribution of resources and opportunities through blockchain technology and a decentralized ecosystem. This pursuit aims to create a fair environment where everyone can pursue their dreams.
+
+We believe that realizing world harmony hinges on promoting the principles of openness and sharing. By employing blockchain technology, we can construct a transparent and non-discriminatory ecosystem, offering equal participation opportunities for individuals worldwide.  
+In the realm of Agates Network, everyone can actively partake in shared resources, contribute to common decision-making, and collectively shape a shared future.
+We firmly believe that collaborative endeavors can dismantle traditional inequalities, giving rise to an ideal world marked by unity.
+
+Agates Network is committed to perpetually upholding the core values of Equality of All, Fair Return, and Global Harmony. We will tirelessly strive to construct a world that is harmonious, prosperous, and mutually beneficial. This represents our vision for the future and our responsibility for the destiny of humankind.
+# 12. Legal & Compliance
+The Agates Network project staunchly adheres to global laws and regulations, prioritizing the legality and compliance of the project.  
+The project team is committed to active cooperation with government regulatory agencies across different countries and remains dedicated to updating and adjusting strategies to align with evolving regulations.
+
+* **User Responsibility**	Users engaging in the Agates Network project bear the responsibility to understand and adhere to the laws and regulations in their respective regions. Given variations in local regulations, it is highly advised that users thoroughly study and confirm that their participation aligns with local regulations before getting involved in the project.
+* **KYC/AML Policy**	To prevent illicit activities, the Agates Network project will implement rigorous identity verification (KYC) and anti-money laundering (AML) policies for users identified with potential compliance risks at the appropriate time. This measure aims to safeguard against any misuse of the project for illegal purposes while protecting the rights and interests of project participants.
+* **Investor Qualification Restrictions**	In accordance with the regulations of various countries and regions, projects may impose specific restrictions on investor qualifications. Users must diligently comprehend local regulations to ascertain their eligibility to participate in the Agates Network project.
+* **Regulatory Risk**	While we strive for the project's compliance, the inherent uncertainty of regulations necessitates awareness of regulatory risks for both project parties and investors. The project will vigilantly monitor regulatory changes and implement appropriate measures as needed to maintain compliance.
+* **Tax Compliance**	The Agates Network project is dedicated to adhering to local tax regulations, encompassing tax filing and proper documentation. Following participation in the project, users bear the responsibility of fulfilling pertinent tax obligations in accordance with local regulations.
+
+Through adherence to legal and compliance standards, the Agates Network project strives to establish a secure, transparent, and legally sound participation environment, ensuring the comprehensive protection of users' rights and interests.
+# 13. Risk Disclosure
+As the project progresses, please note that the contents of the white paper may be subject to updates and adjustments based on actual conditions. Any changes will be promptly communicated through announcements and updates to the official platform.
+
+While the Agates Network project team is dedicated to ensuring the healthy development of the project in alignment with this white paper, it's essential to acknowledge that any new technology and project inherently involve numerous known and unknown risks. Despite the team's best efforts, complete commitment cannot be guaranteed due to the presence of force majeure.
+
+Users are urged to thoroughly read and comprehend the following detailed risks and make an informed decision on whether to participate in this project.
+
+* **Technological Risk**		Agates Network, being a project based on advanced blockchain technology, is inherently exposed to technology-related risks. Potential technical failures, network attacks, smart contract vulnerabilities, and other issues may impact the normal operation of the platform.
+* **Market Risk**	The cryptocurrency market is characterized by high volatility. Participants should be aware that digital asset prices can be influenced by various factors, including market demand, government regulations, industry news, and more. Digital assets have the potential to experience rapid increases or decreases in value.
+* **Regulatory Risk**	The regulatory landscape for the blockchain and cryptocurrency industry is subject to variations across countries and can change unexpectedly. The project may become subject to new regulations, and such changes could significantly impact the development of the project and the rights and interests of participants.
+* **Competitive Risk**		The blockchain space is marked by intense competition, with other projects potentially providing similar or more advanced solutions. The competition for market share may impact Agates Network's user base and overall success in the industry.
+* **Market Acceptance Risk**		Users may not embrace the concepts or products of Agates Network, potentially limiting the scale and development of the project.
+* **Force Majeure Events**	Events beyond human control, such as natural disasters, wars, terrorism, etc., may significantly impact the normal operation of the project. While measures will be taken to mitigate these risks, the occurrence of force majeure events remains a potential threat.
+
+These outlined risks are not exhaustive of all possibilities, and participants are strongly advised to thoroughly evaluate and exercise caution before engaging in the project.  
+We are committed to remaining vigilant and diligently addressing various risks to ensure the sustainable development of the project and safeguard the interests of participants.
+
+# 14. Disclaimer
+The Agates Network project disclaimer is designed to unequivocally communicate to users that project participation carries inherent risks.  
+Users are urged to make rational investments, exercise prudence in decision-making, and assume corresponding responsibilities.  
+While the project party is dedicated to ensuring transparency and legality, it is not accountable for the investment behavior of individual users.
+
+* Investment Decision	All information provided in the Agates Network project white paper is intended for reference only and should not be construed as investment advice. Users engaging in the project are responsible for the risks associated with their investment decisions and must thoroughly comprehend the nature and characteristics of the project before participating. The project party is not liable for the investment behavior of users.
+* Risk Perception	The Agates Network project carries inherent risks in areas such as technology, market dynamics, regulations, and competition. While the project team will exert efforts to mitigate these risks and ensure the long-term healthy development of the project, a complete commitment cannot be guaranteed. Users are advised to conduct their own assessments of risks and consider their personal tolerance levels before participating.
+* Accuracy of Public Information	The information within the project white paper may undergo changes due to project development, regulatory shifts, etc. The project party will make efforts to maintain the accuracy and truthfulness of the information but is not accountable for the timeliness and precision of the content.
+* Scope of Disclaimer:	The project party explicitly declares that, to the extent permitted by law, it holds no responsibility for any direct or indirect losses incurred by users through project participation. Users are strongly advised to carefully read the disclaimer before engaging in the project and to assume the corresponding risks within the legal framework.
+
+# 15. Contact
+* **Official Website:** [https://agates.me/](https://agates.me/)	(Opening Soon)
+* **Contact Email:**	[agates.network@gmail.com](mailTo:agates.network@gmail.com)
+* **Official Update:**		[https://t.me/AgatesUpdate](https://t.me/AgatesUpdate)
+* **Official Group:**		[https://t.me/AgatesCommunity](https://t.me/AgatesCommunity)
