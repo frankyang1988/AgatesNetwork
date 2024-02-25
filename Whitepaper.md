@@ -10,12 +10,13 @@ Unfortunately, the land they cultivated wasn't theirs; it belonged to the feudal
 In the 1800s, during the industrial society, little had changed. Workers labored over 12 hours daily in cramped, noisy, and perilous factories, earning paltry wages insufficient to afford decent shelter and basic food.   
 Meanwhile, the products of their labor generated immense wealth, providing capitalists with luxurious lives.
 ## 1.2 What's happening?
-In 2020 AD, amid a highly developed internet technology era, the situation is complex. While people engage extensively in online activities, browsing, posting, liking, commenting, sharing, chatting, shopping, gaming, and learning the content they create contributes to the vast revenues of internet giants.   
-Unfortunately, despite being the original creators of these revenues, users often don't see a direct impact on their wallets. The monetization occurs through various forms like advertising, e-commerce, and paid services, leading to a disconnect between user participation and financial benefit.
+In 2020 AD, amid a highly developed internet technology era, the situation is complex.  
 
-Certainly, the revenue generated from user activities on the internet often doesn't directly benefit users. As of August 2023, the market values of leading internet companies illustrate the vast wealth concentrated in these corporations. 
+While people engage extensively in online activities, browsing, posting, liking, commenting, sharing, chatting, shopping, gaming, and learning， the content they create contributes to the vast revenues of internet giants.   
+Unfortunately, despite being the original creators of these revenues, users often don't see a direct impact on their wallets. The monetization occurs through various forms like advertising, e-commerce, and paid services. However, the revenue generated from user activities on the internet often doesn't directly benefit users, leading to a disconnect between user participation and financial benefit.
 
-The revenue distribution in such companies typically encompasses company expenses, investments, and shareholder returns rather than direct financial gains for the users contributing to the platform's success. Here are the market values of some prominent companies:
+As of August 2023, the market values of leading internet companies illustrate the vast wealth concentrated in these corporations.   
+Here are the market values of some prominent companies:
 > * Alphabet(Google)   $1.648 Trillion
 > * Amazon: 				$1.474 Trillion
 > * Meta (Facebook): 		$819.32 Billion
