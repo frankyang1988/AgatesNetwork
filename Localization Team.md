@@ -12,9 +12,9 @@ The mission of Agates Network project localization teams is to promote the proje
 
 * **Team Composition:**		Each localization team consists of a team leader (the CEO of Agates Network project in that country) and approximately 10 members.
 
-* **Team Leadership:** The CEOs are appointed directly by the Management Committee initially. When the time is right, they will be elected by all core users in the country through voting and approved by the Management Committee.
+* **Team Leadership:** The CEOs are appointed directly by the Management Committee initially. When the time is right, they will be elected by all core users in the country through voting and approved by the Management Committee. The CEOs are reappointed every 3 months and can be re-elected.
 
-* **Team Members:** Team members are recommended by the Management Committee or directly appointed by the CEO, and approved by the Management Committee. The CEO has management responsibilities for all team members.
+* **Team Members:** Team members are recommended by the Management Committee or directly appointed by the CEO, and approved by the Management Committee. The CEO has management responsibilities for all team members. The CEO can adjust the composition of team members at any time based on the performance of each team member.
 
 ## 4. Responsibilities
 
